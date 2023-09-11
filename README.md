@@ -5,7 +5,7 @@
 <br>
 🦀 In my spare time I'm trying to learn Rust, C, and Go. 
 <br>
-🐧 Linux is my favorite OS ever! I am also interested in learning FreeBSD 😈
+🐧 GNU/Linux is my favorite OS ever! I am also interested in learning FreeBSD 😈
 
 
 <!--
