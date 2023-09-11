@@ -5,7 +5,7 @@
 <br>
 🦀 In my spare time I'm trying to learn Rust, C, and Go. 
 <br>
-🐧 Linux is my default OS and my favorite OS, followed by MacOS and Windows is okay too, but it is my last choice :) 
+🐧 Linux is my default OS and my favorite OS, followed by MacOS and Windows is okay too, but it is my last choice
 
 
 <!--
