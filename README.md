@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working as a Data Analyst using Spreadsheets, SQL, Python, and Zoho Analytics BI
+<br>
 🌱 I’m currently learning Data Science in Coursera and reading books about Data Science!
 🦀 In my spare time I'm trying to learn Rust, C, and Go. 
 🐧 Linux is my default OS and my favorite OS, followed by MacOS and Windows is okay too, but it is my last choice :) 
